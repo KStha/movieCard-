@@ -18,7 +18,7 @@ function Series(props){
                             </div>
 
                            <div className="product-link-container">
-                                <button> watch now </button>
+                                <button> watches now </button>
                             </div>
                         </div>
                 </div>
